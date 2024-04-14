@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{775C7404-ABE5-4302-9DA9-2F6D011A5699}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MiniConsoleAppTask/Program.cs">
+    <Files>
+      <File FileName="MiniConsoleAppTask/Program.cs" Line="57" Column="1" />
+      <File FileName="MiniConsoleAppTask/Classroom.cs" />
+      <File FileName="MiniConsoleAppTask/Extencions.cs" />
+      <File FileName="MiniConsoleAppTask/Helper.cs" />
+      <File FileName="MiniConsoleAppTask/Student.cs" />
+      <File FileName="MiniConsoleAppTask/Type.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniConsoleAppTask" expanded="True">
+            <Node name="MiniConsoleAppTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MiniConsoleAppTask PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

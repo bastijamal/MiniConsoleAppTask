@@ -1,0 +1,15 @@
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/bin/Debug/net7.0/MiniConsoleAppTask
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/bin/Debug/net7.0/MiniConsoleAppTask.deps.json
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/bin/Debug/net7.0/MiniConsoleAppTask.runtimeconfig.json
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/bin/Debug/net7.0/MiniConsoleAppTask.dll
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/bin/Debug/net7.0/MiniConsoleAppTask.pdb
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.csproj.AssemblyReference.cache
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.AssemblyInfoInputs.cache
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.AssemblyInfo.cs
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.csproj.CoreCompileInputs.cache
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.dll
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/refint/MiniConsoleAppTask.dll
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.pdb
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/MiniConsoleAppTask.genruntimeconfig.cache
+/Users/besticamalova/Projects/MiniConsoleAppTask/MiniConsoleAppTask/obj/Debug/net7.0/ref/MiniConsoleAppTask.dll
